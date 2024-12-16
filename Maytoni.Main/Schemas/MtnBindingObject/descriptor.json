@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "acdc6d9c-e130-4245-a4dd-0d126fef7041",
+    "Name": "MtnBindingObject",
+    "ModifiedOnUtc": "\/Date(1732629212000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Объект привязки",
+    "DependsOn": []
+  }
+}

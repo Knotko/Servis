@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "c75d46d5-e411-5e6f-9454-84f78f45ce5b",
+    "Name": "Maytoni.Main",
+    "BPMSoftVersion": "1.5.0",
+    "ModifiedOnUtc": "\/Date(1732531710000)\/",
+    "Maintainer": "Maytoni",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}

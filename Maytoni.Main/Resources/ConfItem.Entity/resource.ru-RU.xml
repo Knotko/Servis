@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.MtnAdditionally.Caption" Value="Дополнительно" />
+			<Item Name="Columns.MtnBindingObject.Caption" Value="Объект привязки" />
+			<Item Name="Columns.MtnNote.Caption" Value="Описание" />
+			<Item Name="Columns.Type.Caption" Value="Классификатор" />
+		</Items>
+	</Group>
+</Resources>

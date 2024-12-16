@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "39c6421d-fdcb-40bb-a216-bc34f656d3cf",
+    "Name": "ServiceItem",
+    "ModifiedOnUtc": "\/Date(1732540697000)\/",
+    "Parent": {
+      "UId": "c6c44f0a-193e-4b5c-b35e-220a60c06898",
+      "Name": "ServiceItem"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Сервис",
+    "DependsOn": []
+  }
+}
