@@ -1,0 +1,111 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+      "A2": "MtnServicesWidgetModule",
+      "A5": "fe5fcb0c-8926-4689-9bad-67597735f07f",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "157354b5-a292-e482-5480-9265d7a7419b",
+          "A2": "MtnHeaderCaption",
+          "A3": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A4": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A5": "fe5fcb0c-8926-4689-9bad-67597735f07f"
+        },
+        {
+          "UId": "30d82655-118f-4da1-7ab8-4969aab86d25",
+          "A2": "MtnGoToServiceSectionButtonCaption",
+          "A3": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A4": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A5": "fe5fcb0c-8926-4689-9bad-67597735f07f"
+        },
+        {
+          "UId": "c283c786-5028-cee5-21c8-522ff1c30d36",
+          "A2": "MtnSearchCaption",
+          "A3": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A4": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A5": "33ef05ab-0d22-45bb-8462-9e34d4889745"
+        },
+        {
+          "UId": "e5f3ea77-4d25-a585-eb62-a60673eac386",
+          "A2": "MtnSelectServiceComposition",
+          "A3": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A4": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A5": "33ef05ab-0d22-45bb-8462-9e34d4889745"
+        },
+        {
+          "UId": "899e1a00-d54a-57c4-f09c-15b291d4844a",
+          "A2": "MtnSelectServiceDirectionCaption",
+          "A3": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A4": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A5": "33ef05ab-0d22-45bb-8462-9e34d4889745"
+        },
+        {
+          "UId": "35122aa3-b9ad-8eb9-accd-7da1e7ecf164",
+          "A2": "MtnBackButtonCaption",
+          "A3": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A4": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A5": "33ef05ab-0d22-45bb-8462-9e34d4889745"
+        },
+        {
+          "UId": "5a5e1f8f-7ea1-a348-3bfd-04fcdd353451",
+          "A2": "MtnNextButtonCaption",
+          "A3": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A4": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A5": "33ef05ab-0d22-45bb-8462-9e34d4889745"
+        }
+      ],
+      "B3": [],
+      "B6": "c75d46d5-e411-5e6f-9454-84f78f45ce5b",
+      "B8": "1.4.0.3084",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [
+        {
+          "UId": "30a11834-7359-46b2-7d7d-7e2ba5c9df0e",
+          "A2": "GenerateDashboardGrid",
+          "A3": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A4": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "HX2": 1
+        },
+        {
+          "UId": "bd398eea-476d-2026-5aa3-82c145fea240",
+          "A2": "GetHistoryState",
+          "A3": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A4": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "HX1": 1,
+          "HX2": 1
+        },
+        {
+          "UId": "554895d2-8dae-cd15-9021-2168fbac09fb",
+          "A2": "GetSectionFilterModuleId",
+          "A3": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A4": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "HX1": 1,
+          "HX2": 1
+        },
+        {
+          "UId": "b93644bb-1d17-dee4-c475-8047a80998f2",
+          "A2": "PushHistoryState",
+          "A3": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A4": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "HX1": 1
+        },
+        {
+          "UId": "665e0970-4b95-b534-e3d2-2784aa0850c5",
+          "A2": "UpdateFilter",
+          "A3": "83c53c11-63ee-45a7-a711-6bfba60234ea",
+          "A4": "83c53c11-63ee-45a7-a711-6bfba60234ea"
+        }
+      ],
+      "HD8": [],
+      "HD11": [],
+      "HD20": [],
+      "HD21": []
+    }
+  }
+}

@@ -1,0 +1,100 @@
+.dashboard-grid-container {
+    padding-bottom: 2em !important;
+}
+
+.mtn-portal-dashboard-search-edit {
+	width: 15em;
+    margin-right: 2.5em;
+	
+	#mtn-portal-dashboard-search-editContainer_Label {
+		display: none;
+	}
+}
+
+.default-widget-header {
+	top: unset !important;
+    padding-bottom: unset !important;
+	width: 99.7% !important;
+}
+
+.mtn-dashboard-grid-footer {
+	height: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	
+	#MtnLevelIndicators {
+		gap: 0.5em;
+		display: inline-flex;
+		
+		.dot {
+			width: 15px;
+			height: 15px;
+			background-color: #bbb;
+			border-radius: 50%;
+			display: inline-block;
+			transition: background-color 0.3s;
+		}
+
+		.dot.active {
+			background-color: #F9763D;
+		}
+	}
+}
+
+.mtn-portal-dashboard-button {
+	float: right;
+    margin-right: 16px;
+	color: #F9763D;
+    border-color: #F9763D;
+	
+	.t-btn-disabled {
+		border: 1px solid #f1f1f1;
+		color: #bababa;
+	}
+}
+
+.mtn-portal-dashboard-grid-list {
+	padding-top: 7em;
+    height: inherit;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+	align-items: center;
+	justify-content: start;
+    overflow: auto;
+}
+
+.mtn-portal-dashboard-grid-list > div {
+	margin: 0.3em;
+	padding: 1em;
+	border-radius: 0.5em;
+	background-color: #FF980042;
+	width: 16.15%;
+	height: 5.8em;
+	display: flex;
+    align-items: center;
+	
+	.grid-layout-column {
+		display: flex;
+    	align-items: center;
+	}
+	
+	div {
+		height: 100%;
+	}
+	
+	a {
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+		
+		color: #000 !important;
+	}
+}
+
+.mtn-portal-dashboard-grid-list > div:hover {
+	background-color: #F9763D;
+}
