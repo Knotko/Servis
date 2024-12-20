@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MtnServicesWidgetModule" />
+			<Item Name="LocalizableStrings.MtnBackButtonCaption.Value" Value="🢦 Предыдущий уровень" />
+			<Item Name="LocalizableStrings.MtnGoToServiceSectionButtonCaption.Value" Value="Перейти в раздел" />
+			<Item Name="LocalizableStrings.MtnHeaderCaption.Value" Value="Сервисы" />
+			<Item Name="LocalizableStrings.MtnNextButtonCaption.Value" Value="🢥" />
+			<Item Name="LocalizableStrings.MtnSearchCaption.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.MtnSelectServiceComposition.Value" Value="Выберите состав услуги" />
+			<Item Name="LocalizableStrings.MtnSelectServiceDirectionCaption.Value" Value="Выберите направление услуги" />
+		</Items>
+	</Group>
+</Resources>
