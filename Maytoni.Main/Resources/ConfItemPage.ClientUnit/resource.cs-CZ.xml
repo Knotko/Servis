@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="ConfItemPage" />
 			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Odložit do" />
+			<Item Name="LocalizableStrings.ConfItemDetailb23d7820DetailCaptionOnPage.Value" Value="Konfigurační jednotky" />
 			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Více prvku ve frontě bylo propojeno na proces. Id procesu: {0}" />
 			<Item Name="LocalizableStrings.OpenServiceModelModuleCaption.Value" Value="Zobrazit vazby" />
 			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Znovu zařadit do fronty" />

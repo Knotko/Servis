@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="Equipo" />
 			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Posponer hasta" />
+			<Item Name="LocalizableStrings.ConfItemDetailb23d7820DetailCaptionOnPage.Value" Value="Elementos de configuración" />
 			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Más de un elemento de cola conectado con el proceso. Id del proceso: {0}" />
 			<Item Name="LocalizableStrings.OpenServiceModelModuleCaption.Value" Value="Mostrar dependencias" />
 			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Devolver a la cola" />

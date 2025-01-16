@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="ConfItemPage" />
 			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Décaler jusqu'à" />
+			<Item Name="LocalizableStrings.ConfItemDetailb23d7820DetailCaptionOnPage.Value" Value="Équipements" />
 			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Plus d'un élément de file d'attente est connecté au processus. Id du processus: {0}" />
 			<Item Name="LocalizableStrings.OpenServiceModelModuleCaption.Value" Value="Afficher les dépendances" />
 			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Mettre à nouveau en file d'attente" />

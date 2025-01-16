@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "92b9eff2-5542-45a2-a3fd-d974b2e6fe69",
+    "Name": "MtnFillingPersonResponsibleRequest",
+    "ModifiedOnUtc": "\/Date(1735033262000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Обращение. Заполнение группы ответственных по сервису"
+  }
+}

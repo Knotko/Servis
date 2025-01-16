@@ -47,6 +47,23 @@ define("ServiceItemPage", [], function() {
 				}
 			},
 			{
+				"operation": "insert",
+				"name": "MtnParentService1679cdef-4c27-4b56-a780-994978d17aa8",
+				"values": {
+					"layout": {
+						"colSpan": 11,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 1,
+						"layoutName": "Header"
+					},
+					"bindTo": "MtnParentService"
+				},
+				"parentName": "Header",
+				"propertyName": "items",
+				"index": 2
+			},
+			{
 				"operation": "merge",
 				"name": "CaseCategory",
 				"values": {
@@ -64,7 +81,7 @@ define("ServiceItemPage", [], function() {
 				"name": "CaseCategory",
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 2
+				"index": 3
 			},
 			{
 				"operation": "merge",
@@ -110,7 +127,7 @@ define("ServiceItemPage", [], function() {
 				"name": "ReactionTimeUnit",
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 5
+				"index": 6
 			},
 			{
 				"operation": "merge",
@@ -142,7 +159,7 @@ define("ServiceItemPage", [], function() {
 				"name": "Owner",
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 7
+				"index": 8
 			},
 			{
 				"operation": "merge",
@@ -162,24 +179,26 @@ define("ServiceItemPage", [], function() {
 				"name": "Status",
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 8
+				"index": 9
 			},
 			{
 				"operation": "insert",
-				"name": "MtnParentService1679cdef-4c27-4b56-a780-994978d17aa8",
+				"name": "LOOKUP33875121-e907-44e2-9762-458ae6fc94c4",
 				"values": {
 					"layout": {
 						"colSpan": 11,
 						"rowSpan": 1,
 						"column": 0,
-						"row": 1,
+						"row": 4,
 						"layoutName": "Header"
 					},
-					"bindTo": "MtnParentService"
+					"bindTo": "MtnGroupOwner",
+					"enabled": true,
+					"contentType": 5
 				},
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 9
+				"index": 10
 			},
 			{
 				"operation": "merge",

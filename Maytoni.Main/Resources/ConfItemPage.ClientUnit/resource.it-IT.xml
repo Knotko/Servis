@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="ConfItemPage" />
 			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Rinvia fino a" />
+			<Item Name="LocalizableStrings.ConfItemDetailb23d7820DetailCaptionOnPage.Value" Value="Elementi di configurazione" />
 			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Più di un elemento della coda è collegato al processo. Id processo: {0}" />
 			<Item Name="LocalizableStrings.OpenServiceModelModuleCaption.Value" Value="Mostra dipendenze" />
 			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Riaccoda" />

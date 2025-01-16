@@ -4,6 +4,8 @@
 		<Items>
 			<Item Name="Caption" Value="ConfItemPage" />
 			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Postpone till" />
+			<Item Name="LocalizableStrings.ConfItemDetailb23d7820DetailCaptionOnPage.Value" Value="Configuration items" />
+			<Item Name="LocalizableStrings.FieldValidationMessage.Value" Value="Fields:" />
 			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="More than one queue element connected to the process. Process Id: {0}" />
 			<Item Name="LocalizableStrings.OpenServiceModelModuleCaption.Value" Value="Display dependencies" />
 			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Re-queue" />
@@ -13,6 +15,8 @@
 			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Successfully re-queued" />
 			<Item Name="LocalizableStrings.RelationshipTabCaption.Caption" Value="Connected to" />
 			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
+			<Item Name="LocalizableStrings.StandardErrorCaption.Value" Value="Error filling column. See input rule settings." />
+			<Item Name="LocalizableStrings.ValidationMessage.Value" Value="filled in violation of the established validation conditions." />
 		</Items>
 	</Group>
 </Resources>

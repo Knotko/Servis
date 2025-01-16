@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="ServiceItemPage" />
 			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Запланировать на дату" />
+			<Item Name="LocalizableStrings.FieldValidationMessage.Value" Value="Поля:" />
 			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Найдено более одного элементов очереди связанных с процессом. Идентификатор процесса: {0}" />
 			<Item Name="LocalizableStrings.OpenServiceModelModuleCaption.Value" Value="Отобразить зависимости" />
 			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Вернуть в очередь" />
@@ -15,7 +16,9 @@
 			<Item Name="LocalizableStrings.RelationshipTabCaption.Caption" Value="Взаимосвязи" />
 			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Взаимосвязи" />
 			<Item Name="LocalizableStrings.ServiceItemDetail81bcc8e1DetailCaptionOnPage.Value" Value="Состав услуги" />
+			<Item Name="LocalizableStrings.StandardErrorCaption.Value" Value="Ошибка в заполнении колонки. См. настройки правил ввода." />
 			<Item Name="LocalizableStrings.UsersTabCaption.Value" Value="Пользователи" />
+			<Item Name="LocalizableStrings.ValidationMessage.Value" Value="заполнены с нарушением установленных условий валидации." />
 		</Items>
 	</Group>
 </Resources>
