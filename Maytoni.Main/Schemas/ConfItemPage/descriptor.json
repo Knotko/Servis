@@ -2,14 +2,13 @@
   "Descriptor": {
     "UId": "bee41816-1291-4870-93af-300efad800e7",
     "Name": "ConfItemPage",
-    "ModifiedOnUtc": "\/Date(1732629855000)\/",
+    "ModifiedOnUtc": "\/Date(1734522424000)\/",
     "Parent": {
       "UId": "21af711b-1d9b-4911-a611-f699ef456565",
       "Name": "ConfItemPage"
     },
     "ExtendParent": true,
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "ConfItemPage",
-    "DependsOn": []
+    "Caption": "ConfItemPage"
   }
 }

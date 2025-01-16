@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="ConfItemPage" />
 			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="به تعویق انداختن تا" />
+			<Item Name="LocalizableStrings.ConfItemDetailb23d7820DetailCaptionOnPage.Value" Value="اقلام پیکربندی" />
 			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="بیش از یک عنصر صف به فرایند متصل است. شناسه فرایند: {0}" />
 			<Item Name="LocalizableStrings.OpenServiceModelModuleCaption.Value" Value="وابستگی های نمایش" />
 			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="تشکیل صف دوباره" />

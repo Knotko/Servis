@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Account.Caption" Value="طرف حساب" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Address.Caption" Value="آدرس" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.AddressType.Caption" Value="نوع آدرس" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Age.Caption" Value="Age" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.BirthDate.Caption" Value="تاریخ تولد" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.City.Caption" Value="شهر" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Completeness.Caption" Value="تنظیم داده های ورودی" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Confirmed.Caption" Value="تایید شده" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Country.Caption" Value="کشور" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="ایجاد شده توسط" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="ایجادشده در" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Dear.Caption" Value="نام گیرنده" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.DecisionRole.Caption" Value="نقش" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Department.Caption" Value="دپارتمان" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.DoNotUseCall.Caption" Value="تلفن استفاده نشود" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.DoNotUseEmail.Caption" Value="ایمیل استفاده نشود" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.DoNotUseFax.Caption" Value="فکس استفاده نمی شود" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.DoNotUseMail.Caption" Value="ایمیل استفاده نشود" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.DoNotUseSms.Caption" Value="پیامک ارسال نشود" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Email.Caption" Value="ایمیل" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Gender.Caption" Value="جنسیت" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.GivenName.Caption" Value="نام" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.GPSE.Caption" Value="GPS E" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.GPSN.Caption" Value="GPS N" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.HomePhone.Caption" Value="تلفن محل سکونت" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Id.Caption" Value="شناسه" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.IsNonActualEmail.Caption" Value="ایمیل نامعتبر" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Job.Caption" Value="عنوان شغلی" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.JobTitle.Caption" Value="عنوان کامل شغلی" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Language.Caption" Value="زبان ترجیحی" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.MiddleName.Caption" Value="نام پدر" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.MobilePhone.Caption" Value="موبایل" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.ModifiedBy.Caption" Value="ویرایش شده توسط" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.ModifiedOn.Caption" Value="ویرایش شده در" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Name.Caption" Value="نام کامل" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Notes.Caption" Value="یادداشت ها" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Owner.Caption" Value="ایجاد کننده" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Phone.Caption" Value="تلفن تجاری" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Photo.Caption" Value="عکس" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.ProcessListeners.Caption" Value="پردازش های فعال" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Region.Caption" Value="استان/شهرستان" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.SalutationType.Caption" Value="عنوان" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Skype.Caption" Value="اسکایپ" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Surname.Caption" Value="نام خانوادگی" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Type.Caption" Value="نوع" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Zip.Caption" Value="کد پستی" />
+		</Items>
+	</Group>
+</Resources>

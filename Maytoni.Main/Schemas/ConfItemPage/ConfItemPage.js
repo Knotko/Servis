@@ -3,7 +3,16 @@ define("ConfItemPage", [], function() {
 		entitySchemaName: "ConfItem",
 		attributes: {},
 		modules: /**SCHEMA_MODULES*/{}/**SCHEMA_MODULES*/,
-		details: /**SCHEMA_DETAILS*/{}/**SCHEMA_DETAILS*/,
+		details: /**SCHEMA_DETAILS*/{
+			"ConfItemDetailb23d7820": {
+				"schemaName": "ConfItemDetail",
+				"entitySchemaName": "ConfItem",
+				"filter": {
+					"detailColumn": "ParentConfItem",
+					"masterColumn": "Id"
+				}
+			}
+		}/**SCHEMA_DETAILS*/,
 		businessRules: /**SCHEMA_BUSINESS_RULES*/{}/**SCHEMA_BUSINESS_RULES*/,
 		methods: {},
 		dataModels: /**SCHEMA_DATA_MODELS*/{}/**SCHEMA_DATA_MODELS*/,
@@ -109,6 +118,17 @@ define("ConfItemPage", [], function() {
 					"contentType": 5
 				},
 				"parentName": "ActualStatusGroup_GridLayout",
+				"propertyName": "items",
+				"index": 4
+			},
+			{
+				"operation": "insert",
+				"name": "ConfItemDetailb23d7820",
+				"values": {
+					"itemType": 2,
+					"markerValue": "added-detail"
+				},
+				"parentName": "GeneralInfoTab",
 				"propertyName": "items",
 				"index": 4
 			},

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "08dcc78b-a929-4c2c-b188-84a649b395f6",
+    "Name": "MtnProcess_b4e84dc",
+    "ModifiedOnUtc": "\/Date(1734694669000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Обращения. Рассылка уведомлений на группу (подпроцесс)"
+  }
+}

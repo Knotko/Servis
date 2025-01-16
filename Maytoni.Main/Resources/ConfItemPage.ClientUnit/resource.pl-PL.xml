@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="ConfItemPage" />
 			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Odłóż do" />
+			<Item Name="LocalizableStrings.ConfItemDetailb23d7820DetailCaptionOnPage.Value" Value="Serwisowane produkty" />
 			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Więcej niż jeden element kolejki podłączony do procesu. Identyfikator procesu: {0}" />
 			<Item Name="LocalizableStrings.OpenServiceModelModuleCaption.Value" Value="Wyświetl zależności" />
 			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Ponowna kolejka" />

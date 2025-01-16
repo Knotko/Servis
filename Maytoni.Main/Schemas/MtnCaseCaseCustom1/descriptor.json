@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "550eb88c-8ab0-4bd1-9eb6-685e7b331b5b",
+    "Name": "MtnCaseCaseCustom1",
+    "ModifiedOnUtc": "\/Date(1734606958000)\/",
+    "Parent": {
+      "UId": "3c7d3f4f-a553-4717-909e-6ca5dd6a042f",
+      "Name": "CaseCase"
+    },
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Обращение"
+  }
+}

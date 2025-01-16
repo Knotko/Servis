@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="ConfItemPage" />
 			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Amana pana la" />
+			<Item Name="LocalizableStrings.ConfItemDetailb23d7820DetailCaptionOnPage.Value" Value="Itemi configurare" />
 			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Mai mult decat un element in coada conexat procesului. Id Proces: {0}" />
 			<Item Name="LocalizableStrings.OpenServiceModelModuleCaption.Value" Value="Afiseaza dependentele" />
 			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Refa coada" />

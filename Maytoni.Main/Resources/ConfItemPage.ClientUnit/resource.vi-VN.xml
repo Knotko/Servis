@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="ConfItemPage" />
 			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Hoãn lại cho đến khi" />
+			<Item Name="LocalizableStrings.ConfItemDetailb23d7820DetailCaptionOnPage.Value" Value="Các mục cấu hình" />
 			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Có nhiều hơn một phần tử dãy chờ được kết nối với quá trình này. Id quá trình: {0}" />
 			<Item Name="LocalizableStrings.OpenServiceModelModuleCaption.Value" Value="Hiểu thị các phụ thuộc" />
 			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Xếp lại dãy chờ" />

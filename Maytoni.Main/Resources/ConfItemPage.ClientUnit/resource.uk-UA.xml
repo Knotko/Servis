@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="ConfItemPage" />
 			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Запланувати на дату" />
+			<Item Name="LocalizableStrings.ConfItemDetailb23d7820DetailCaptionOnPage.Value" Value="Конфігурації" />
 			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Знайдено більше одного елементу черги пов'язаних з процесом. Ідентифікатор процесу: {0}" />
 			<Item Name="LocalizableStrings.OpenServiceModelModuleCaption.Value" Value="Відобразити залежності" />
 			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Повернути в чергу" />

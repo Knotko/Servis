@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7f46ac3f-dd6c-4370-89d2-29ff518cdc27",
+    "Name": "PortalCaseSection",
+    "ModifiedOnUtc": "\/Date(1734442357000)\/",
+    "Parent": {
+      "UId": "77fa8de4-b861-4c49-87b0-dda2241f0ea4",
+      "Name": "PortalCaseSection"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Обращения\""
+  }
+}

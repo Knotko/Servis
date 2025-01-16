@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Columns.MtnCode.Caption" Value="Код" />
+			<Item Name="Columns.MtnGroupOwner.Caption" Value="Группа ответственных" />
 			<Item Name="Columns.MtnParentService.Caption" Value="Родительский сервис" />
 		</Items>
 	</Group>
