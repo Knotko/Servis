@@ -13,10 +13,12 @@ define("PortalMessagePublisherPage", ["PortalMessagePublisherPageResources",  "C
 					 * @overridden
 					 */
 					publishMessage: function() {
+						this.showBodyMask();
 						let scope = this;
 						let parentMethod = this.getParentMethod();
 						setTimeout((arguments) => {
 							parentMethod.call(scope, arguments);
+							scope.hideBodyMask();
 						}, 1500);
 					}
 				},
