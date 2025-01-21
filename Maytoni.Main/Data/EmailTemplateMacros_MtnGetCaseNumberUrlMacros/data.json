@@ -1,0 +1,42 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c4c66536-0628-4027-95c5-c0adfa890977"
+        },
+        {
+          "SchemaColumnUId": "31f443f0-9862-45d4-82b1-3646b7be7e80",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "331466e8-84a2-407b-aea7-b51166d84f37",
+          "Value": "BPMSoft.Configuration.MtnGetCaseNumberUrlMacros"
+        },
+        {
+          "SchemaColumnUId": "675f0417-546f-4be1-b2f0-52c00d759191",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "68e1ebb9-eaec-4373-a26c-a806d808b5a4",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "9c0bdcfe-57bc-4af6-8b70-4d3d711cb95a",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "af1e4ae4-76c6-47fc-b98c-592541d69d3d",
+          "Value": "16339f82-6ff0-4c75-b20d-13f07a79f854",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "b1d7018a-8f0d-4913-91b0-93331066fbac",
+          "Value": 0
+        }
+      ]
+    }
+  ]
+}
