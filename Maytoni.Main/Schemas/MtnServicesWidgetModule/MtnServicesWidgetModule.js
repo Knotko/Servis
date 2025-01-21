@@ -40,6 +40,20 @@ define("MtnServicesWidgetModule", ["BPMSoft", "ext-base", "MtnServicesWidgetModu
 									"labelClass": "default-widget-header-label"
 								},
 								{
+									"name": "mtn-portal-dashboard-create-custom-case-button",
+									"classes": {
+										"wrapClassName": ["mtn-portal-dashboard-create-custom-case-button"],
+										"textClass": "mtn-portal-dashboard-create-custom-case-button"
+									},
+									"itemType": BPMSoft.ViewItemType.BUTTON,
+									"caption": {
+										"bindTo": "Resources.Strings.MtnCreateCustomCase"
+									},
+									"click": {
+										"bindTo": "onCreateCustomCaseClick"
+									}
+								},
+								{
 									"name": "mtn-portal-dashboard-search-edit",
 									"bindTo": "MtnSearchText",
 									"classes": {
@@ -408,6 +422,25 @@ define("MtnServicesWidgetModule", ["BPMSoft", "ext-base", "MtnServicesWidgetModu
 					BPMSoft.ComparisonType.CONTAIN, "Name", searchText));
 				filters.addItem(BPMSoft.createColumnIsNotNullFilter("MtnParentService.MtnParentService"));
 				return filters;
+			},
+			
+			/**
+			 * Create new custom case button handler.
+			 */
+			onCreateCustomCaseClick: function() {
+				let historyState = this.sandbox.publish("GetHistoryState"); 	
+				let cardConfig = {
+					schemaName: "CasePage",
+					entitySchemaName: "Case",
+					operation: BPMSoft.ConfigurationEnums.CardOperation.ADD,
+					moduleId: this.sandbox.id + "CasePage" + BPMSoft.generateGUID(),
+					renderTo: "centerPanel",
+					keepAlive: true,
+					sandbox: this.sandbox,
+					historyState: historyState
+				};
+				
+				this._networkUtils.openCardInChain(cardConfig);
 			}
 		});
 
