@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="MtnServicesWidgetModule" />
 			<Item Name="LocalizableStrings.MtnBackButtonCaption.Value" Value="🢦 Предыдущий уровень" />
+			<Item Name="LocalizableStrings.MtnCreateCustomCase.Value" Value="Создать произвольное обращение" />
 			<Item Name="LocalizableStrings.MtnGoToServiceSectionButtonCaption.Value" Value="Перейти в раздел" />
 			<Item Name="LocalizableStrings.MtnHeaderCaption.Value" Value="Сервисы" />
 			<Item Name="LocalizableStrings.MtnNextButtonCaption.Value" Value="🢥" />
