@@ -434,6 +434,16 @@ define("MtnServicesWidgetModule", ["BPMSoft", "ext-base", "MtnServicesWidgetModu
 					entitySchemaName: "Case",
 					operation: BPMSoft.ConfigurationEnums.CardOperation.ADD,
 					moduleId: this.sandbox.id + "CasePage" + BPMSoft.generateGUID(),
+					valuePairs: [
+						{
+							name: ["Contact"], 
+							value: [BPMSoft.SysValue.CURRENT_USER_CONTACT.value]
+						},
+						{
+							name: ["Account"], 
+							value: [BPMSoft.SysValue.CURRENT_USER_ACCOUNT.value]
+						}
+					],
 					renderTo: "centerPanel",
 					keepAlive: true,
 					sandbox: this.sandbox,
