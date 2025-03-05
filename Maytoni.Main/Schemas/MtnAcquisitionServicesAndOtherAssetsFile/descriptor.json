@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a4aa5ead-0469-42aa-b3a4-c62c343515ca",
+    "Name": "MtnAcquisitionServicesAndOtherAssetsFile",
+    "ModifiedOnUtc": "\/Date(1740400995000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Приобретение услуг и прочих активов"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a7134269-ba26-41f7-b600-8f8a1c4f35f4",
+    "Name": "MtnOSInAcceptanceForAccountingDetail",
+    "ModifiedOnUtc": "\/Date(1740473863000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"ОС в принятии к учету ОС\""
+  }
+}

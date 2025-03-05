@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "027eb5b3-86c1-450d-96b2-23a30f3e6569",
+    "Name": "MtnAcquisitionServicesAndOtherAssets",
+    "ModifiedOnUtc": "\/Date(1741100925000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Приобретение услуг и прочих активов"
+  }
+}

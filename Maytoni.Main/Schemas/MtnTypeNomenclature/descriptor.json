@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ceddf61d-3f72-4402-ae01-7475a05f71af",
+    "Name": "MtnTypeNomenclature",
+    "ModifiedOnUtc": "\/Date(1740318065000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тип номенклатуры"
+  }
+}

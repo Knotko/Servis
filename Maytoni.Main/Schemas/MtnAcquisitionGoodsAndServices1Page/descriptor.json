@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d2fbd968-2967-4e31-948c-0e2b68e029bf",
+    "Name": "MtnAcquisitionGoodsAndServices1Page",
+    "ModifiedOnUtc": "\/Date(1740594143000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Приобретение товаров и услуг\""
+  }
+}

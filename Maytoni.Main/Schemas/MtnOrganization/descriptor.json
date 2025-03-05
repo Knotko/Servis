@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "1d200468-fd1b-4618-89b7-4f5470f8ad29",
+    "Name": "MtnOrganization",
+    "ModifiedOnUtc": "\/Date(1739773109000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Организация"
+  }
+}

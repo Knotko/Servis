@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Товары в приобретении" />
+			<Item Name="Columns.MtnAmount.Caption" Value="Сумма" />
+			<Item Name="Columns.MtnContent.Caption" Value="Содержание" />
+			<Item Name="Columns.MtnNomenclature.Caption" Value="Номенклатура" />
+			<Item Name="Columns.MtnNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.MtnPrice.Caption" Value="Цена" />
+			<Item Name="Columns.MtnProductInAcquisitionServicesAndOtherAssets.Caption" Value="Приобретение услуг и прочих активов" />
+			<Item Name="Columns.MtnProductsInAcquisitionGoodsAndServices.Caption" Value="Приобретение товаров и услуг" />
+			<Item Name="Columns.MtnQuantity.Caption" Value="Количество" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

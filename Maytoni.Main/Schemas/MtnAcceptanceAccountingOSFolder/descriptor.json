@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "b5835c19-f93d-4286-8eb8-7769ce5bc20c",
+    "Name": "MtnAcceptanceAccountingOSFolder",
+    "ModifiedOnUtc": "\/Date(1740437576000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Принятие к учету ОС"
+  }
+}

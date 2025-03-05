@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "84fa1249-7a1e-46a2-8e9e-1f94bf9f5cb6"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "f4cd2a9b-1312-4d26-9205-c09e8ba56218",
+          "DisplayValue": "Сервис"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "2a754d60-1653-4063-aea1-b7792d7e86d4",
+          "DisplayValue": "Товары в приобретении"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 28
+        }
+      ]
+    }
+  ]
+}

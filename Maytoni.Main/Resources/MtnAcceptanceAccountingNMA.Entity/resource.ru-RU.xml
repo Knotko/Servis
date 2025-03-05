@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Принятие к учету НМА" />
+			<Item Name="Columns.Mtn1Cid.Caption" Value="1Cid" />
+			<Item Name="Columns.MtnDepartment.Caption" Value="Подразделение" />
+			<Item Name="Columns.MtnFrom.Caption" Value="От" />
+			<Item Name="Columns.MtnInitialCostMan.Caption" Value="Первоначальная стоимость (упр.учет)" />
+			<Item Name="Columns.MtnInitialCostReg.Caption" Value="Первоначальная стоимость (регл.учет)" />
+			<Item Name="Columns.MtnNomenclature.Caption" Value="Номенклатура" />
+			<Item Name="Columns.MtnNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.MtnNumber.Caption" Value="Номер" />
+			<Item Name="Columns.MtnOperation.Caption" Value="Операция" />
+			<Item Name="Columns.MtnOrganization.Caption" Value="Организация" />
+			<Item Name="Columns.MtnResponsible.Caption" Value="Ответственный" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

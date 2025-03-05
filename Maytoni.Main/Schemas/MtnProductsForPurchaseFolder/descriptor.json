@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a8187623-c62f-4799-9f2f-ad6214a8291d",
+    "Name": "MtnProductsForPurchaseFolder",
+    "ModifiedOnUtc": "\/Date(1740391900000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Товары в приобретении"
+  }
+}

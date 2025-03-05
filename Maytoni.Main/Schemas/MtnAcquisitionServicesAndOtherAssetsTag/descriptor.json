@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ba9b154c-dbdd-4ffc-847f-afc7b34f1d24",
+    "Name": "MtnAcquisitionServicesAndOtherAssetsTag",
+    "ModifiedOnUtc": "\/Date(1740401007000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Приобретение услуг и прочих активов"
+  }
+}

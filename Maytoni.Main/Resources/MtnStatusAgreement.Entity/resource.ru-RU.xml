@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Статус договора" />
+			<Item Name="Columns.Mtn1Cid.Caption" Value="1Cid" />
+			<Item Name="Columns.MtnEnumCode.Caption" Value="Название 1С" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

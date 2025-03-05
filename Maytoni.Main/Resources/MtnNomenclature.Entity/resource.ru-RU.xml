@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Номенклатура" />
+			<Item Name="Columns.Mtn1Cid.Caption" Value="1Cid" />
+			<Item Name="Columns.MtnArticle.Caption" Value="Артикул" />
+			<Item Name="Columns.MtnClass.Caption" Value="Вид" />
+			<Item Name="Columns.MtnDateAcceptanceAccounting.Caption" Value="Дата принятия к учету" />
+			<Item Name="Columns.MtnDepartment.Caption" Value="Подразделение" />
+			<Item Name="Columns.MtnDepreciationGroup.Caption" Value="Амортизационная группа" />
+			<Item Name="Columns.MtnInv.Caption" Value="Инв. №" />
+			<Item Name="Columns.MtnMOL.Caption" Value="МОЛ" />
+			<Item Name="Columns.MtnNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.MtnOrganization.Caption" Value="Организация" />
+			<Item Name="Columns.MtnPassportNumber.Caption" Value="Номер паспорта" />
+			<Item Name="Columns.MtnPeriodUse.Caption" Value="Срок использования" />
+			<Item Name="Columns.MtnReleaseDate.Caption" Value="Дата выпуска" />
+			<Item Name="Columns.MtnSerialNumber.Caption" Value="Серийный номер" />
+			<Item Name="Columns.MtnTitle.Caption" Value="Наименование" />
+			<Item Name="Columns.MtnTypeNomenclature.Caption" Value="Тип номенклатуры" />
+			<Item Name="Columns.MtnZavNumber.Caption" Value="Зав.номер" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

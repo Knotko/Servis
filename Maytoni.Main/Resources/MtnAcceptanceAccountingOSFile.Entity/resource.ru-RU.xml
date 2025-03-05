@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Файл и ссылка объекта Принятие к учету ОС" />
+			<Item Name="Columns.MtnAcceptanceAccountingOS.Caption" Value="Принятие к учету ОС" />
+		</Items>
+	</Group>
+</Resources>

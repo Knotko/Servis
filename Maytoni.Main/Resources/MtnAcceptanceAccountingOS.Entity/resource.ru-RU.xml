@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Принятие к учету ОС" />
+			<Item Name="Columns.Mtn1Cid.Caption" Value="1Cid" />
+			<Item Name="Columns.MtnAcceptanceForAccountingIn.Caption" Value="Принятие к учету в" />
+			<Item Name="Columns.MtnDepartment.Caption" Value="Подразделение" />
+			<Item Name="Columns.MtnFrom.Caption" Value="От" />
+			<Item Name="Columns.MtnMethodOfAdmission.Caption" Value="Способ поступления" />
+			<Item Name="Columns.MtnMol.Caption" Value="МОЛ" />
+			<Item Name="Columns.MtnNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.MtnNumber.Caption" Value="Номер" />
+			<Item Name="Columns.MtnOperationOS.Caption" Value="Операция" />
+			<Item Name="Columns.MtnOrganization.Caption" Value="Организация" />
+			<Item Name="Columns.MtnOSGroup.Caption" Value="Группа ОС" />
+			<Item Name="Columns.MtnOSInventory.Caption" Value="Инвентаризация ОС" />
+			<Item Name="Columns.MtnPeriodOfUse.Caption" Value="Срок использования (мес.)" />
+			<Item Name="Columns.MtnResponsible.Caption" Value="Ответственный" />
+			<Item Name="Columns.MtnTargetedFinancing.Caption" Value="Целевое финансирование" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

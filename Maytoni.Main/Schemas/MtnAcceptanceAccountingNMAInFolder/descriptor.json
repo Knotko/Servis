@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "680204f9-0c30-499a-a786-764c62eece4e",
+    "Name": "MtnAcceptanceAccountingNMAInFolder",
+    "ModifiedOnUtc": "\/Date(1740475962000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Принятие к учету НМА в группе"
+  }
+}

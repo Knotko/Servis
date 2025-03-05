@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "bcfc07c4-48fd-4ce7-b97d-9842c6c47ab5",
+    "Name": "MtnProductsForPurchaseTag",
+    "ModifiedOnUtc": "\/Date(1740391908000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Товары в приобретении"
+  }
+}

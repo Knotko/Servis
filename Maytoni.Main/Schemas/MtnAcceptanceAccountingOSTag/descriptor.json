@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "7f3eedc6-3f2c-44f6-8f02-51fbcddcd3b3",
+    "Name": "MtnAcceptanceAccountingOSTag",
+    "ModifiedOnUtc": "\/Date(1740437584000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Принятие к учету ОС"
+  }
+}

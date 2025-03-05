@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "4cb44df4-629c-43ef-b177-86dd34a98b9c",
+    "Name": "MtnProductsForPurchase",
+    "ModifiedOnUtc": "\/Date(1740589820000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Товары в приобретении"
+  }
+}

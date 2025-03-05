@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ОС в принятии к учету ОС" />
+			<Item Name="Columns.Mtn1Cid.Caption" Value="1Cid" />
+			<Item Name="Columns.MtnAcceptanceAccountingOS.Caption" Value="Принятие к учету ОС" />
+			<Item Name="Columns.MtnAmount.Caption" Value="Стоимость упр. (руб)" />
+			<Item Name="Columns.MtnInv.Caption" Value="Инв.№" />
+			<Item Name="Columns.MtnOS.Caption" Value="ОС" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

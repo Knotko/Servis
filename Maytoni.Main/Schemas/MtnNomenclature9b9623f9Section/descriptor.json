@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d78dd743-264a-42d4-9734-ae81d8b88c58",
+    "Name": "MtnNomenclature9b9623f9Section",
+    "ModifiedOnUtc": "\/Date(1740318621000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Номенклатура\""
+  }
+}

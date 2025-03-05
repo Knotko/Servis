@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "0b4cc449-8ee6-4208-b349-1ac3351b6632",
+    "Name": "MtnAcceptanceAccountingNMAInTag",
+    "ModifiedOnUtc": "\/Date(1740475968000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Принятие к учету НМА"
+  }
+}

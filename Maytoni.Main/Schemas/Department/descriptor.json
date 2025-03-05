@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "be04b132-64ae-4a7b-a4a4-435e5fc2efdf",
+    "Name": "Department",
+    "ModifiedOnUtc": "\/Date(1739888315000)\/",
+    "Parent": {
+      "UId": "7a269220-a657-4b5f-bfb4-ebe596e419d8",
+      "Name": "Department"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Департамент"
+  }
+}

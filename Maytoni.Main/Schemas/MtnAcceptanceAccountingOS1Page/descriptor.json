@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a9580a6d-8acb-437d-af8d-c6b559642b41",
+    "Name": "MtnAcceptanceAccountingOS1Page",
+    "ModifiedOnUtc": "\/Date(1740474045000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Принятие к учету ОС\""
+  }
+}

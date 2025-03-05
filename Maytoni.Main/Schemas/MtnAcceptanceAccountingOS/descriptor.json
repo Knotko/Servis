@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "6612cd12-e524-4dd3-a401-8f35f660c2aa",
+    "Name": "MtnAcceptanceAccountingOS",
+    "ModifiedOnUtc": "\/Date(1741100654000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Принятие к учету ОС"
+  }
+}

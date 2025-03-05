@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "11aa67b8-b94f-45ce-bad4-efa543a57712",
+    "Name": "MtnAgreement",
+    "ModifiedOnUtc": "\/Date(1740590721000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Договор"
+  }
+}

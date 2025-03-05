@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "bfd62a7f-2b83-44c2-813e-eaa06af15d6e",
+    "Name": "MtnNomenclatureTag",
+    "ModifiedOnUtc": "\/Date(1740318646000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Номенклатура"
+  }
+}

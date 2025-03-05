@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "652c9527-6522-47d2-9bec-703542490b44",
+    "Name": "MtnOperationOS",
+    "ModifiedOnUtc": "\/Date(1740342612000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Операции ОС"
+  }
+}

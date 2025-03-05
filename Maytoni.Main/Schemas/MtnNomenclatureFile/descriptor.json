@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "801bd702-6b3b-4684-8fa0-37353661d3e8",
+    "Name": "MtnNomenclatureFile",
+    "ModifiedOnUtc": "\/Date(1740318635000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Номенклатура"
+  }
+}

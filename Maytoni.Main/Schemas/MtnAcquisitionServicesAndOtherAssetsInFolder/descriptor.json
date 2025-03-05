@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "2bdcc7f7-a4c8-4e61-a225-89cc59e4f86e",
+    "Name": "MtnAcquisitionServicesAndOtherAssetsInFolder",
+    "ModifiedOnUtc": "\/Date(1740401003000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Приобретение услуг и прочих активов в группе"
+  }
+}

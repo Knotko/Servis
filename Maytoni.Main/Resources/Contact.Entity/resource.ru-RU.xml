@@ -2,6 +2,8 @@
 <Resources Culture="ru-RU">
 	<Group Type="String">
 		<Items>
+			<Item Name="Columns.Mtn1Cid.Caption" Value="1Cid	" />
+			<Item Name="Columns.MtnEmail.Caption" Value="Email" />
 			<Item Name="Columns.MtnObjectAdmin.Caption" Value="Объект администрирования" />
 		</Items>
 	</Group>

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ee74bfd8-2e15-4c98-8acd-8bb789a1abbb",
+    "Name": "MtnAcquisitionGoodsAndServicesTag",
+    "ModifiedOnUtc": "\/Date(1740399283000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Приобретение товаров и услуг"
+  }
+}

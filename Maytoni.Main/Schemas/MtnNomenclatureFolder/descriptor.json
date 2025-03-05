@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "7944f426-4bcd-4d94-9389-cbbda1bc0d78",
+    "Name": "MtnNomenclatureFolder",
+    "ModifiedOnUtc": "\/Date(1740318639000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Номенклатура"
+  }
+}

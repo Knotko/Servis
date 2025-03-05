@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ce488202-e132-45df-92e5-0666c94bf22a",
+    "Name": "MtnAcceptanceAccountingNMA7c762340Section",
+    "ModifiedOnUtc": "\/Date(1740475944000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Принятие к учету НМА\""
+  }
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Файл и ссылка объекта Приобретение услуг и прочих активов" />
+			<Item Name="Columns.MtnAcquisitionServicesAndOtherAssets.Caption" Value="Приобретение услуг и прочих активов" />
+		</Items>
+	</Group>
+</Resources>

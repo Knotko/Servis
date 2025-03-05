@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "2af407b0-a1ec-4778-ad06-3f05cda678e9",
+    "Name": "MtnAcquisitionServicesAndOtherAssetsbcc256a4Section",
+    "ModifiedOnUtc": "\/Date(1740400980000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Приобретение услуг и прочих активов\""
+  }
+}

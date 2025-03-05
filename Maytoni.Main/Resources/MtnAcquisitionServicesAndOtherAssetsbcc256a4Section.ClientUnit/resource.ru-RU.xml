@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема раздела: &quot;Приобретение услуг и прочих активов&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Приобретение услуг и прочих активов" />
+		</Items>
+	</Group>
+</Resources>

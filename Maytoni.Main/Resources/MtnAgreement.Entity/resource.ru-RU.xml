@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Договор" />
+			<Item Name="Columns.Mtn1Cid.Caption" Value="1Cid" />
+			<Item Name="Columns.MtnAccount.Caption" Value="Контрагент" />
+			<Item Name="Columns.MtnFrom.Caption" Value="От" />
+			<Item Name="Columns.MtnManager.Caption" Value="Менеджер" />
+			<Item Name="Columns.MtnName.Caption" Value="Наименование" />
+			<Item Name="Columns.MtnNumber.Caption" Value="Номер" />
+			<Item Name="Columns.MtnStatusAgreement.Caption" Value="Статус" />
+			<Item Name="Columns.MtnTarget.Caption" Value="Цель договора" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>
