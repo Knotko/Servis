@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="https://api2.maytoni.de" />
+			<Item Name="ServiceMethods.MtnAccount.Caption" Value="Account" />
+			<Item Name="ServiceMethods.MtnAccount.Request.Parameters.MtnParameter1.Caption" Value="RefKey" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnDescription.Caption" Value="Description" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnDMark.Caption" Value="DeletionMark" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnEmail.Caption" Value="MT_Email" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnKey.Caption" Value="Партнер_Key" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnMLang.Caption" Value="Odata.error Message Lang" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnMT.Caption" Value="MT_АккаунтСайта" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnMValue.Caption" Value="Odata.error Message Value" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnOCode.Caption" Value="Odata.error Code" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnodataError.Caption" Value="odata.error" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter.Caption" Value="ЮридическоеФизическоеЛицо" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter10.Caption" Value="НалоговыйНомер" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter11.Caption" Value="ИНН" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter20.Caption" Value="НаименованиеПолное" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter21.Caption" Value="КПП" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter22.Caption" Value="КодПоОКПО" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter23.Caption" Value="РегистрационныйНомер" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter24.Caption" Value="ЮрФизЛицо" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter25.Caption" Value="КонтактнаяИнформация" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter25.ItemProperties.MtnParameter26.Caption" Value="НомерТелефона" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter25.ItemProperties.MtnParameter27.Caption" Value="Тип" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter25.ItemProperties.MtnParameter28.Caption" Value="Представление" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter25.ItemProperties.MtnParameter29.Caption" Value="АдресЭП" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnParameter30.Caption" Value="НаименованиеМеждународное" />
+			<Item Name="ServiceMethods.MtnAccount.Response.Parameters.MtnRKey.Caption" Value="Ref_Key" />
+			<Item Name="ServiceMethods.MtnContract.Caption" Value="Contract" />
+			<Item Name="ServiceMethods.MtnContract.Request.Parameters.MtnRefKey.Caption" Value="RefKey" />
+			<Item Name="ServiceMethods.MtnContract.Response.Parameters.MtnDMark.Caption" Value="DeletionMark" />
+			<Item Name="ServiceMethods.MtnContract.Response.Parameters.MtnKey.Caption" Value="Организация_Key" />
+			<Item Name="ServiceMethods.MtnContract.Response.Parameters.MtnKey1.Caption" Value="Контрагент_Key" />
+			<Item Name="ServiceMethods.MtnContract.Response.Parameters.MtnKey2.Caption" Value="Менеджер_Key" />
+			<Item Name="ServiceMethods.MtnContract.Response.Parameters.MtnKey3.Caption" Value="Партнер_Key" />
+			<Item Name="ServiceMethods.MtnContract.Response.Parameters.MtnParameter.Caption" Value="Сумма" />
+			<Item Name="ServiceMethods.MtnContract.Response.Parameters.MtnParameter1.Caption" Value="ДатаОкончанияДействия" />
+			<Item Name="ServiceMethods.MtnContract.Response.Parameters.MtnParameter2.Caption" Value="ТипДоговора" />
+			<Item Name="ServiceMethods.MtnContract.Response.Parameters.MtnParameter3.Caption" Value="Дата" />
+			<Item Name="ServiceMethods.MtnContract.Response.Parameters.MtnParameter4.Caption" Value="Номер" />
+			<Item Name="ServiceMethods.MtnContract.Response.Parameters.MtnParameter5.Caption" Value="Статус" />
+			<Item Name="ServiceMethods.MtnContract.Response.Parameters.MtnRKey.Caption" Value="Ref_Key" />
+			<Item Name="ServiceMethods.MtnDepartment.Caption" Value="Department" />
+			<Item Name="ServiceMethods.MtnDepartment.Request.Parameters.MtnRefKey.Caption" Value="RefKey" />
+			<Item Name="ServiceMethods.MtnDepartment.Response.Parameters.MtnDescription.Caption" Value="Description" />
+			<Item Name="ServiceMethods.MtnDepartment.Response.Parameters.MtnDMark.Caption" Value="DeletionMark" />
+			<Item Name="ServiceMethods.MtnDepartment.Response.Parameters.MtnKey.Caption" Value="ТекущийРуководитель_Key" />
+			<Item Name="ServiceMethods.MtnDepartment.Response.Parameters.MtnPKey.Caption" Value="Parent_Key" />
+			<Item Name="ServiceMethods.MtnDepartment.Response.Parameters.MtnRKey.Caption" Value="Ref_Key" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Caption" Value="ObjectEsxploitation" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Request.Parameters.MtnRefkey.Caption" Value="RefKey" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnCode.Caption" Value="Code" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnDescription.Caption" Value="Description" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnDMark.Caption" Value="DeletionMark" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnKey.Caption" Value="РемонтирующееПодразделение_Key" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnKey1.Caption" Value="ЭксплуатирующееПодразделение_Key" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnKey2.Caption" Value="ШифрПоЕНАОФ_Key" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnParameter1.Caption" Value="СерийныйНомер" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnParameter10.Caption" Value="Модель" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnParameter2.Caption" Value="НаименованиеПолное" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnParameter3.Caption" Value="Статус" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnParameter4.Caption" Value="НомерПаспорта" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnParameter5.Caption" Value="Расположение" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnParameter6.Caption" Value="ДатаВыпуска" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnParameter7.Caption" Value="ГруппаОС" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnParameter8.Caption" Value="ИнвентарныйНомер" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnParameter9.Caption" Value="Изготовитель" />
+			<Item Name="ServiceMethods.MtnObjectEsxploitation.Response.Parameters.MtnRKey.Caption" Value="Ref_Key" />
+			<Item Name="ServiceMethods.MtnPartner.Caption" Value="Partner" />
+			<Item Name="ServiceMethods.MtnPartner.Request.Parameters.MtnRefkey.Caption" Value="RefKey" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnDMark.Caption" Value="DeletionMark" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnEmail.Caption" Value="Email" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnKey.Caption" Value="ОсновнойМенеджер_Key" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnKey1.Caption" Value="Ответственный_Key" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnParameter.Caption" Value="НаименованиеПолное" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnParameter1.Caption" Value="Поставщик" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnParameter10.Caption" Value="Перевозчик" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnParameter2.Caption" Value="Клиент" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnParameter3.Caption" Value="Конкурент" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnParameter4.Caption" Value="ПрочиеОтношения" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnParameter5.Caption" Value="КонтактнаяИнформация" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnParameter5.ItemProperties.MtnParameter6.Caption" Value="Тип" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnParameter5.ItemProperties.MtnParameter7.Caption" Value="Представление" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnParameter5.ItemProperties.MtnParameter8.Caption" Value="АдресЭП" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnParameter5.ItemProperties.MtnParameter9.Caption" Value="НомерТелефона" />
+			<Item Name="ServiceMethods.MtnPartner.Response.Parameters.MtnRKey.Caption" Value="Ref_Key" />
+			<Item Name="ServiceMethods.MtnUsers.Caption" Value="Users" />
+			<Item Name="ServiceMethods.MtnUsers.Request.Parameters.MtnRefkey.Caption" Value="RefKey" />
+			<Item Name="ServiceMethods.MtnUsers.Response.Parameters.MtnDescription.Caption" Value="Description" />
+			<Item Name="ServiceMethods.MtnUsers.Response.Parameters.MtnDMark.Caption" Value="DeletionMark" />
+			<Item Name="ServiceMethods.MtnUsers.Response.Parameters.MtnKey.Caption" Value="Подразделение_Key" />
+			<Item Name="ServiceMethods.MtnUsers.Response.Parameters.MtnParameter.Caption" Value="КонтактнаяИнформация" />
+			<Item Name="ServiceMethods.MtnUsers.Response.Parameters.MtnParameter.ItemProperties.MtnParameter1.Caption" Value="Тип" />
+			<Item Name="ServiceMethods.MtnUsers.Response.Parameters.MtnParameter.ItemProperties.MtnParameter2.Caption" Value="Представление" />
+			<Item Name="ServiceMethods.MtnUsers.Response.Parameters.MtnParameter3.Caption" Value="Служебный" />
+			<Item Name="ServiceMethods.MtnUsers.Response.Parameters.MtnRKey.Caption" Value="Ref_Key" />
+		</Items>
+	</Group>
+</Resources>

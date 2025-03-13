@@ -1,11 +1,11 @@
 ﻿{
   "Descriptor": {
-    "UId": "dfe72564-42c0-4d90-aa97-ac0dd66bdece",
+    "UId": "fcca8809-233e-480f-9246-ca5963a037b3",
     "Name": "MtnPartner",
-    "ModifiedOnUtc": "\/Date(1740583959000)\/",
+    "ModifiedOnUtc": "\/Date(1741617378000)\/",
     "Parent": {
-      "UId": "25d7c1ab-1de0-4501-b402-02e0e5a72d6e",
-      "Name": "Account"
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
     },
     "ManagerName": "EntitySchemaManager",
     "Caption": "Партнер"

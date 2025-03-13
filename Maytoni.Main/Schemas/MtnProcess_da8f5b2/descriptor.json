@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "a5b48c94-0be2-421f-a915-912f7ebb1575",
+    "Name": "MtnProcess_da8f5b2",
+    "ModifiedOnUtc": "\/Date(1741634669000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "ERP: Обработка контрагента (подпроцесс)"
+  }
+}

@@ -128,6 +128,25 @@ define("MtnNomenclature1Page", [], function() {
 			},
 			{
 				"operation": "insert",
+				"name": "LOOKUPcf9409e0-2823-4e8e-8469-3b7004e5c47e",
+				"values": {
+					"layout": {
+						"colSpan": 24,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 5,
+						"layoutName": "ProfileContainer"
+					},
+					"bindTo": "MtnRepairDepartment",
+					"enabled": true,
+					"contentType": 5
+				},
+				"parentName": "ProfileContainer",
+				"propertyName": "items",
+				"index": 5
+			},
+			{
+				"operation": "insert",
 				"name": "MtnTitle806ae494-4e93-4a0b-b32d-ba5d7041b311",
 				"values": {
 					"layout": {
@@ -145,7 +164,7 @@ define("MtnNomenclature1Page", [], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "MtnArticle1c6c7e50-a7f4-484d-a55a-3fae0bb12b00",
+				"name": "MtnReleaseDate4d5dac6a-8292-46f2-a998-b0b9c8e3618a",
 				"values": {
 					"layout": {
 						"colSpan": 11,
@@ -154,45 +173,11 @@ define("MtnNomenclature1Page", [], function() {
 						"row": 0,
 						"layoutName": "Header"
 					},
-					"bindTo": "MtnArticle"
-				},
-				"parentName": "Header",
-				"propertyName": "items",
-				"index": 1
-			},
-			{
-				"operation": "insert",
-				"name": "MtnClassad0c3c35-ba09-4ed1-833b-09a2be2818ee",
-				"values": {
-					"layout": {
-						"colSpan": 11,
-						"rowSpan": 1,
-						"column": 0,
-						"row": 1,
-						"layoutName": "Header"
-					},
-					"bindTo": "MtnClass"
-				},
-				"parentName": "Header",
-				"propertyName": "items",
-				"index": 2
-			},
-			{
-				"operation": "insert",
-				"name": "MtnReleaseDate4d5dac6a-8292-46f2-a998-b0b9c8e3618a",
-				"values": {
-					"layout": {
-						"colSpan": 11,
-						"rowSpan": 1,
-						"column": 13,
-						"row": 1,
-						"layoutName": "Header"
-					},
 					"bindTo": "MtnReleaseDate"
 				},
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 3
+				"index": 1
 			},
 			{
 				"operation": "insert",
@@ -202,31 +187,33 @@ define("MtnNomenclature1Page", [], function() {
 						"colSpan": 11,
 						"rowSpan": 1,
 						"column": 0,
-						"row": 2,
+						"row": 4,
 						"layoutName": "Header"
 					},
 					"bindTo": "MtnPeriodUse"
 				},
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 4
+				"index": 2
 			},
 			{
 				"operation": "insert",
-				"name": "MtnDepreciationGroup9b3ad4cf-e816-46b8-9bf5-43acbf30a623",
+				"name": "LOOKUP55fcd0b9-020c-468c-8146-5bfc52bbb23a",
 				"values": {
 					"layout": {
 						"colSpan": 11,
 						"rowSpan": 1,
 						"column": 13,
-						"row": 2,
+						"row": 4,
 						"layoutName": "Header"
 					},
-					"bindTo": "MtnDepreciationGroup"
+					"bindTo": "MtnGroupOs",
+					"enabled": true,
+					"contentType": 5
 				},
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 5
+				"index": 3
 			},
 			{
 				"operation": "insert",
@@ -235,15 +222,15 @@ define("MtnNomenclature1Page", [], function() {
 					"layout": {
 						"colSpan": 11,
 						"rowSpan": 1,
-						"column": 0,
-						"row": 3,
+						"column": 13,
+						"row": 2,
 						"layoutName": "Header"
 					},
 					"bindTo": "MtnZavNumber"
 				},
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 6
+				"index": 4
 			},
 			{
 				"operation": "insert",
@@ -260,7 +247,7 @@ define("MtnNomenclature1Page", [], function() {
 				},
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 7
+				"index": 5
 			},
 			{
 				"operation": "insert",
@@ -269,15 +256,15 @@ define("MtnNomenclature1Page", [], function() {
 					"layout": {
 						"colSpan": 11,
 						"rowSpan": 1,
-						"column": 0,
-						"row": 4,
+						"column": 13,
+						"row": 1,
 						"layoutName": "Header"
 					},
 					"bindTo": "MtnInv"
 				},
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 8
+				"index": 6
 			},
 			{
 				"operation": "insert",
@@ -286,15 +273,15 @@ define("MtnNomenclature1Page", [], function() {
 					"layout": {
 						"colSpan": 11,
 						"rowSpan": 1,
-						"column": 13,
-						"row": 4,
+						"column": 0,
+						"row": 1,
 						"layoutName": "Header"
 					},
 					"bindTo": "MtnSerialNumber"
 				},
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 9
+				"index": 7
 			},
 			{
 				"operation": "insert",
@@ -304,14 +291,32 @@ define("MtnNomenclature1Page", [], function() {
 						"colSpan": 11,
 						"rowSpan": 1,
 						"column": 0,
-						"row": 5,
+						"row": 2,
 						"layoutName": "Header"
 					},
 					"bindTo": "MtnPassportNumber"
 				},
 				"parentName": "Header",
 				"propertyName": "items",
-				"index": 10
+				"index": 8
+			},
+			{
+				"operation": "insert",
+				"name": "STRING0a665436-7678-449d-9bca-81e990e8b481",
+				"values": {
+					"layout": {
+						"colSpan": 11,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 3,
+						"layoutName": "Header"
+					},
+					"bindTo": "MtnManufacturer",
+					"enabled": true
+				},
+				"parentName": "Header",
+				"propertyName": "items",
+				"index": 9
 			},
 			{
 				"operation": "insert",

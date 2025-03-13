@@ -1,0 +1,1233 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+      "A2": "MtnService_OData",
+      "A5": "9633dde1-49cc-48b7-a298-dbff38383982",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "c75d46d5-e411-5e6f-9454-84f78f45ce5b",
+      "B8": "1.5.0.901",
+      "IQ1": "https://api2.maytoni.de",
+      "IQ2": 1,
+      "IQ7": [],
+      "IQ4": [
+        {
+          "UId": "477ae1e5-cc89-4216-bb96-28ec9d4fa798",
+          "A2": "MtnAccount",
+          "A3": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+          "A4": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+          "IR3": 5000,
+          "IR4": true,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "4b7e2130-a8bf-403e-a5f5-b4736770bc40",
+                "A2": "MtnParameter1",
+                "IU1": "RefKey",
+                "IU2": "Text",
+                "IU7": true,
+                "IU8": "item",
+                "IU4": 2,
+                "IU5": {
+                  "IV1": "null",
+                  "IV2": 1
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/ERP_MAYTONI/odata/standard.odata/Catalog_Контрагенты(Ref_Key={RefKey})"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "892b21d9-2f50-438c-84af-36b95371d423",
+                "A2": "MtnRKey",
+                "IU1": "$.Ref_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "147ddd71-9643-420f-942a-2a14869ad679",
+                "A2": "MtnParameter10",
+                "IU1": "$.НалоговыйНомер",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "dea44340-5515-4e8b-b845-9f5be19ebc27",
+                "A2": "MtnParameter11",
+                "IU1": "$.ИНН",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "072111ff-f5dd-40de-a8e8-e1c1194af3bb",
+                "A2": "MtnParameter20",
+                "IU1": "$.НаименованиеПолное",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "669bc565-df27-4d46-b5bf-8ae85eb5b5c8",
+                "A2": "MtnParameter21",
+                "IU1": "$.КПП",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "76aa7044-bd13-41ae-a4f4-f49aa078caa3",
+                "A2": "MtnEmail",
+                "IU1": "$.MT_Email",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "74455993-c6d5-44dd-8511-91092cda1e5d",
+                "A2": "MtnDMark",
+                "IU1": "$.DeletionMark",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "a736ed48-3e32-4114-a211-24f92783e04b",
+                "A2": "MtnParameter",
+                "IU1": "$.ЮридическоеФизическоеЛицо",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "548391f3-b73c-4897-b23e-3c23913ff587",
+                "A2": "MtnKey",
+                "IU1": "$.Партнер_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "d156a240-ab84-4cda-ae9c-3e31cf767e3f",
+                "A2": "MtnParameter22",
+                "IU1": "$.КодПоОКПО",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "7028aabe-ae98-4eb8-9856-5ec37190dffc",
+                "A2": "MtnParameter23",
+                "IU1": "$.РегистрационныйНомер",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "2d9355b5-5686-4b35-86c1-a8945fa90264",
+                "A2": "MtnParameter24",
+                "IU1": "$.ЮрФизЛицо",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "7a0ef387-1b08-4451-b206-7d65c4a6464e",
+                "A2": "MtnParameter25",
+                "IU1": "$.КонтактнаяИнформация",
+                "IU2": "Object",
+                "IU3": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": [
+                  {
+                    "UId": "67a3384b-6b68-4a5e-a749-8730c541debb",
+                    "A2": "MtnParameter26",
+                    "IU1": "НомерТелефона",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "48e5e599-0b19-4848-8b55-078183a6da4b",
+                    "A2": "MtnParameter27",
+                    "IU1": "Тип",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "73fa08e7-7baf-4eb6-bbe1-e030e02cc082",
+                    "A2": "MtnParameter28",
+                    "IU1": "Представление",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "fb486127-89ce-4028-a60f-8b46e3b89d6f",
+                    "A2": "MtnParameter29",
+                    "IU1": "АдресЭП",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  }
+                ]
+              },
+              {
+                "UId": "a3572225-8c91-4d6a-8023-ffe84e3dea27",
+                "A2": "MtnMT",
+                "IU1": "$.MT_АккаунтСайта",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "9f24f233-aa44-4329-aba9-8c480afa142c",
+                "A2": "MtnDescription",
+                "IU1": "$.Description",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "f00cffdb-3277-4536-b897-1c2101942a0f",
+                "A2": "MtnParameter30",
+                "IU1": "$.НаименованиеМеждународное",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "e2cd0acb-657a-487e-a9fa-b58832812d16",
+                "A2": "MtnOCode",
+                "IU1": "$.odata.error.code",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "6146dbef-8573-4caa-91c4-353aa3872e63",
+                "A2": "MtnMLang",
+                "IU1": "$.odata.error.message.lang",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "0272a83d-54f3-4b7d-a1b7-2d4a31be37a6",
+                "A2": "MtnMValue",
+                "IU1": "$.odata.error.message.value",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "058e67cc-be30-401c-bdd4-8197622108d5",
+                "A2": "MtnodataError",
+                "IU1": "$.odata.error",
+                "IU2": "Text",
+                "IU7": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null",
+                  "IV2": 1
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "197f9ac3-b81a-4b23-b428-7f1307f25a81",
+          "A2": "MtnContract",
+          "A3": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+          "A4": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+          "IR3": 5000,
+          "IR4": true,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "5af39361-673c-43e6-9b15-83b669d1686f",
+                "A2": "MtnRefKey",
+                "IU1": "RefKey",
+                "IU2": "Text",
+                "IU7": true,
+                "IU8": "item",
+                "IU4": 2,
+                "IU5": {
+                  "IV1": "null",
+                  "IV2": 1
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/ERP_MAYTONI//odata/standard.odata/Catalog_ДоговорыКонтрагентов(Ref_Key={RefKey})"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "4c052a7d-c3e8-4b72-aba8-bb7dc9ad8377",
+                "A2": "MtnParameter",
+                "IU1": "$.Сумма",
+                "IU2": "Integer",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "12b65f6f-5c8d-4570-ba3b-2c688919f159",
+                "A2": "MtnParameter1",
+                "IU1": "$.ДатаОкончанияДействия",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "22d54233-cd95-4a02-bdd0-2bc6108487b5",
+                "A2": "MtnKey",
+                "IU1": "$.Организация_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "0f5642f1-ab05-45f2-bca4-7d1e0a85cfa9",
+                "A2": "MtnKey1",
+                "IU1": "$.Контрагент_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "070d6fd1-f516-4307-8662-824b6d9bddbc",
+                "A2": "MtnDMark",
+                "IU1": "$.DeletionMark",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "86f0eee7-3a11-43a1-8038-351dc01bd27d",
+                "A2": "MtnKey2",
+                "IU1": "$.Менеджер_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "3c1a7b58-7155-42bf-a914-d21ef84ba2a4",
+                "A2": "MtnRKey",
+                "IU1": "$.Ref_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "96e5ba57-553b-4154-b76f-598be485ebde",
+                "A2": "MtnParameter2",
+                "IU1": "$.ТипДоговора",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "79cb7d27-6094-4b4b-ac10-68e782b47590",
+                "A2": "MtnParameter3",
+                "IU1": "$.Дата",
+                "IU2": "Date",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "bac287b9-c82b-4dc3-afcf-381b5e707585",
+                "A2": "MtnParameter4",
+                "IU1": "$.Номер",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "6ff61dae-5566-47c9-95ba-24009cb3e7af",
+                "A2": "MtnParameter5",
+                "IU1": "$.Статус",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "ff8aba44-a8b6-4656-8484-29f4f45c509f",
+                "A2": "MtnKey3",
+                "IU1": "$.Партнер_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "15c5f102-8407-4e82-8032-c57251d07830",
+          "A2": "MtnDepartment",
+          "A3": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+          "A4": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+          "IR3": 5000,
+          "IR4": true,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "f2633e78-4f10-4638-9881-164ed85bbcbe",
+                "A2": "MtnRefKey",
+                "IU1": "RefKey",
+                "IU2": "Text",
+                "IU7": true,
+                "IU8": "item",
+                "IU4": 2,
+                "IU5": {
+                  "IV1": "null",
+                  "IV2": 1
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/ERP_MAYTONI//odata/standard.odata/Catalog_СтруктураПредприятия(Ref_Key={RefKey})"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "260857a0-8efd-4b19-9f46-7db08bcf8ccb",
+                "A2": "MtnDescription",
+                "IU1": "$.Description",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "6ca46062-3f55-498d-b917-5b02069e1145",
+                "A2": "MtnDMark",
+                "IU1": "$.DeletionMark",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "12f91fc4-967c-4a41-b6f8-54a5a43a754f",
+                "A2": "MtnKey",
+                "IU1": "$.ТекущийРуководитель_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "14fb32ac-fd0f-4b99-9d91-d317918f0ee7",
+                "A2": "MtnPKey",
+                "IU1": "$.Parent_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "33266cd4-4f2a-40db-a406-6c383577f515",
+                "A2": "MtnRKey",
+                "IU1": "$.Ref_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "cfac63d3-fd28-4263-8072-a8228e4e6963",
+          "A2": "MtnObjectEsxploitation",
+          "A3": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+          "A4": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+          "IR3": 5000,
+          "IR4": true,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "4b7e2130-a8bf-403e-a5f5-b4736770bc40",
+                "A2": "MtnRefkey",
+                "IU1": "RefKey",
+                "IU2": "Text",
+                "IU7": true,
+                "IU8": "item",
+                "IU4": 2,
+                "IU5": {
+                  "IV1": "null",
+                  "IV2": 1
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/ERP_MAYTONI/odata/standard.odata/Catalog_ОбъектыЭксплуатации(Ref_Key={RefKey})"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "5519c327-309a-443e-8f65-c77801ba8806",
+                "A2": "MtnParameter1",
+                "IU1": "$.СерийныйНомер",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "fe8892d1-dda9-4af3-8f3b-1fc289f31b77",
+                "A2": "MtnParameter2",
+                "IU1": "$.НаименованиеПолное",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "93902f55-59c6-458c-b076-ff18c66801fc",
+                "A2": "MtnKey",
+                "IU1": "$.РемонтирующееПодразделение_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "124d5281-1cb5-430b-9833-8c15de8ca753",
+                "A2": "MtnKey1",
+                "IU1": "$.ЭксплуатирующееПодразделение_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "b56b6b6f-cc35-4973-8f3c-8ee58c2d5780",
+                "A2": "MtnParameter3",
+                "IU1": "$.Статус",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "bf171322-044b-4728-9236-9178bf7e13cc",
+                "A2": "MtnKey2",
+                "IU1": "$.ШифрПоЕНАОФ_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "7464125c-7368-4f0d-add5-4d8633e5b0a4",
+                "A2": "MtnParameter4",
+                "IU1": "$.НомерПаспорта",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "096e671e-d893-42c6-9286-bf4b395a7f0b",
+                "A2": "MtnParameter5",
+                "IU1": "$.Расположение",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "1b1cf018-95cd-4bdc-b209-cec7d9dae0c1",
+                "A2": "MtnParameter6",
+                "IU1": "$.ДатаВыпуска",
+                "IU2": "Date",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "c19e02ef-490c-463f-be1b-c1c477b506cb",
+                "A2": "MtnParameter7",
+                "IU1": "$.ГруппаОС",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "a1271274-3d65-4034-bc69-887013736139",
+                "A2": "MtnRKey",
+                "IU1": "$.Ref_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "83223c0c-9b7e-4d4c-bd11-a2ad27ed3349",
+                "A2": "MtnParameter8",
+                "IU1": "$.ИнвентарныйНомер",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "682e72a3-a5ea-4e2b-bc0f-df65e6dad996",
+                "A2": "MtnParameter9",
+                "IU1": "$.Изготовитель",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "f9a0a840-c54a-49ea-9a8e-3220eba5c88d",
+                "A2": "MtnDMark",
+                "IU1": "$.DeletionMark",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "62db1c46-f0f5-48b6-9eb5-443705e35b19",
+                "A2": "MtnDescription",
+                "IU1": "$.Description",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "eaa5c507-7303-4a7e-9e06-552e3c418207",
+                "A2": "MtnCode",
+                "IU1": "$.Code",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "4ecb67e7-458e-41c0-a181-26839b8ca70f",
+                "A2": "MtnParameter10",
+                "IU1": "$.Модель",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "9f97a8ea-2f2e-4357-8ef8-ddb83747c1f4",
+          "A2": "MtnPartner",
+          "A3": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+          "A4": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+          "IR3": 5000,
+          "IR4": true,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "4b7e2130-a8bf-403e-a5f5-b4736770bc40",
+                "A2": "MtnRefkey",
+                "IU1": "RefKey",
+                "IU2": "Text",
+                "IU7": true,
+                "IU8": "item",
+                "IU4": 2,
+                "IU5": {
+                  "IV1": "null",
+                  "IV2": 1
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/ERP_MAYTONI/odata/standard.odata/Catalog_Партнеры(Ref_Key={RefKey})"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "2e02e7ad-7bca-4393-a6d9-426bba8d8cda",
+                "A2": "MtnParameter",
+                "IU1": "$.НаименованиеПолное",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "3bc3e707-9f5c-4064-9398-dad562f41cd3",
+                "A2": "MtnParameter1",
+                "IU1": "$.Поставщик",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "e572192f-1441-49ad-9c42-72d500158d9a",
+                "A2": "MtnParameter2",
+                "IU1": "$.Клиент",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "d0975011-0da2-4990-8c79-5a37823166de",
+                "A2": "MtnDMark",
+                "IU1": "$.DeletionMark",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "293bbf1a-baea-47e2-b2f0-05241910569a",
+                "A2": "MtnKey",
+                "IU1": "$.ОсновнойМенеджер_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "08e6a29e-98c8-4336-9a73-7e8d39092e3b",
+                "A2": "MtnParameter3",
+                "IU1": "$.Конкурент",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "c133e215-da63-4a17-847c-7f99b4717cb3",
+                "A2": "MtnParameter4",
+                "IU1": "$.ПрочиеОтношения",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "1cc14892-0c3c-4b84-ade3-41ec14737d8f",
+                "A2": "MtnParameter5",
+                "IU1": "$.КонтактнаяИнформация",
+                "IU2": "Object",
+                "IU3": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": [
+                  {
+                    "UId": "876857d4-73cc-47a7-ae14-9f78f21b4368",
+                    "A2": "MtnParameter6",
+                    "IU1": "Тип",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "888207b8-e1a3-47b9-a04c-ef57bb834516",
+                    "A2": "MtnParameter7",
+                    "IU1": "Представление",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "5e98baaf-bb95-41b7-9862-e9cbe08cb1cf",
+                    "A2": "MtnParameter8",
+                    "IU1": "АдресЭП",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "b2157f2b-1aad-461c-b1db-bf5798ef7fd2",
+                    "A2": "MtnParameter9",
+                    "IU1": "НомерТелефона",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  }
+                ]
+              },
+              {
+                "UId": "0afb4daf-fdca-488f-891e-d0570d45516c",
+                "A2": "MtnParameter10",
+                "IU1": "$.Перевозчик",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "05267996-0fc4-4872-9ae6-a4486a58645f",
+                "A2": "MtnRKey",
+                "IU1": "$.Ref_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "de28329d-5620-43bc-8a29-e27b72f42089",
+                "A2": "MtnEmail",
+                "IU1": "$.Email",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "f11c161b-a26d-429e-9dfd-b7d14b2f1c7c",
+                "A2": "MtnKey1",
+                "IU1": "$.Ответственный_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "0a8dfb4e-ad6b-420c-acc3-7552d8f96f31",
+          "A2": "MtnUsers",
+          "A3": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+          "A4": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+          "IR3": 5000,
+          "IR4": true,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "4b7e2130-a8bf-403e-a5f5-b4736770bc40",
+                "A2": "MtnRefkey",
+                "IU1": "RefKey",
+                "IU2": "Text",
+                "IU7": true,
+                "IU8": "item",
+                "IU4": 2,
+                "IU5": {
+                  "IV1": "null",
+                  "IV2": 1
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/ERP_MAYTONI//odata/standard.odata/Catalog_Пользователи(Ref_Key={RefKey})"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "b35aec9d-6f33-4784-89f3-526baf8b81de",
+                "A2": "MtnRKey",
+                "IU1": "$.Ref_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "5feb9190-1a57-4c4f-9be3-26cdb154a63e",
+                "A2": "MtnKey",
+                "IU1": "$.Подразделение_Key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "09f1ec10-fffb-44ae-abb0-9c099dca172c",
+                "A2": "MtnParameter",
+                "IU1": "$.КонтактнаяИнформация",
+                "IU2": "Object",
+                "IU3": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": [
+                  {
+                    "UId": "1b3ff672-cb47-4bdf-b139-9d854a7873d3",
+                    "A2": "MtnParameter1",
+                    "IU1": "Тип",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "523f88bb-d6a1-4d17-9a2d-8fc58050c956",
+                    "A2": "MtnParameter2",
+                    "IU1": "Представление",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  }
+                ]
+              },
+              {
+                "UId": "a3ffa1eb-2d5f-4b2c-aebc-effeb9afbc12",
+                "A2": "MtnParameter3",
+                "IU1": "$.Служебный",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "e517e2c5-2c0a-4ea6-a647-58dadf2af3b4",
+                "A2": "MtnDescription",
+                "IU1": "$.Description",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "80e0aa5c-773f-4fa3-83c6-837b2db0f332",
+                "A2": "MtnDMark",
+                "IU1": "$.DeletionMark",
+                "IU2": "Boolean",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        }
+      ],
+      "IQ5": {
+        "IY1": 1,
+        "IZ1": {
+          "IV1": " 1CUser",
+          "IV2": 2
+        },
+        "IZ2": {
+          "IV1": "Password1C",
+          "IV2": 2
+        }
+      }
+    }
+  }
+}

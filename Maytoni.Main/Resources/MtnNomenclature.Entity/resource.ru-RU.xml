@@ -9,13 +9,16 @@
 			<Item Name="Columns.MtnDateAcceptanceAccounting.Caption" Value="Дата принятия к учету" />
 			<Item Name="Columns.MtnDepartment.Caption" Value="Подразделение" />
 			<Item Name="Columns.MtnDepreciationGroup.Caption" Value="Амортизационная группа" />
+			<Item Name="Columns.MtnGroupOs.Caption" Value="Группа ОС" />
 			<Item Name="Columns.MtnInv.Caption" Value="Инв. №" />
+			<Item Name="Columns.MtnManufacturer.Caption" Value="Изготовитель" />
 			<Item Name="Columns.MtnMOL.Caption" Value="МОЛ" />
 			<Item Name="Columns.MtnNotes.Caption" Value="Заметки" />
 			<Item Name="Columns.MtnOrganization.Caption" Value="Организация" />
 			<Item Name="Columns.MtnPassportNumber.Caption" Value="Номер паспорта" />
 			<Item Name="Columns.MtnPeriodUse.Caption" Value="Срок использования" />
 			<Item Name="Columns.MtnReleaseDate.Caption" Value="Дата выпуска" />
+			<Item Name="Columns.MtnRepairDepartment.Caption" Value="Ремонтирующее подразделение" />
 			<Item Name="Columns.MtnSerialNumber.Caption" Value="Серийный номер" />
 			<Item Name="Columns.MtnTitle.Caption" Value="Наименование" />
 			<Item Name="Columns.MtnTypeNomenclature.Caption" Value="Тип номенклатуры" />

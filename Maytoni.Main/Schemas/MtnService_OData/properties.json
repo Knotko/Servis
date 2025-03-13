@@ -1,0 +1,7 @@
+﻿{
+  "Properties": {
+    "BaseUri": "https://api2.maytoni.de",
+    "CreatedInVersion": "1.5.0.901",
+    "Type": "Rest"
+  }
+}

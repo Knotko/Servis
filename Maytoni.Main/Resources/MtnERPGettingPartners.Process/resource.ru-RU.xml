@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.SubProcess2.Caption" Value="ERP: Обработка партнера (подпроцесс) 1" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Mtn1Cid.Caption" Value="1Cid" />
+			<Item Name="BaseElements.SubProcess2.Parameters.Mtn1Cid.DisplayValue" Value="[#RefKey#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnAlternativeName1.Caption" Value="Альтернативное название" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnAlternativeName1.DisplayValue" Value="[#https://api2.maytoni.de 1.НаименованиеПолное#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnClient.Caption" Value="Клиент" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnClient.DisplayValue" Value="[#https://api2.maytoni.de 1.Клиент#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnContact1CId.Caption" Value="Contact1CId" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnContact1CId.DisplayValue" Value="[#https://api2.maytoni.de 1.Ответственный_Key#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnInformation.Caption" Value="КонтактнаяИнформация" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnInformation.DisplayValue" Value="[#https://api2.maytoni.de 1.КонтактнаяИнформация#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnInformation.MtnAddress.Caption" Value="Представление" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnInformation.MtnAddress.DisplayValue" Value="[#https://api2.maytoni.de 1.КонтактнаяИнформация:Представление#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnInformation.MtnEmail.Caption" Value="Почта" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnInformation.MtnEmail.DisplayValue" Value="[#https://api2.maytoni.de 1.КонтактнаяИнформация:АдресЭП#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnInformation.MtnPhone.Caption" Value="Телефон" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnInformation.MtnPhone.DisplayValue" Value="[#https://api2.maytoni.de 1.КонтактнаяИнформация:НомерТелефона#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnInformation.ProcessSchemaParameter1.Caption" Value="Тип" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnInformation.ProcessSchemaParameter1.DisplayValue" Value="[#https://api2.maytoni.de 1.КонтактнаяИнформация:Тип#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnName.Caption" Value="Название" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnName.DisplayValue" Value="[#https://api2.maytoni.de 1.НаименованиеПолное#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.MtnPartner.Caption" Value="Партнер" />
+			<Item Name="BaseElements.SubProcess2.Parameters.ProcessSchemaParameter2.Caption" Value="Поставщик" />
+			<Item Name="BaseElements.SubProcess2.Parameters.ProcessSchemaParameter2.DisplayValue" Value="[#https://api2.maytoni.de 1.Поставщик#]" />
+			<Item Name="BaseElements.WebService1.Caption" Value="https://api2.maytoni.de 1" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnDMark_Out.Caption" Value="DeletionMark" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnEmail_Out.Caption" Value="Email" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnKey_Out.Caption" Value="ОсновнойМенеджер_Key" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnKey1_Out.Caption" Value="Ответственный_Key" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnParameter_Out.Caption" Value="НаименованиеПолное" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnParameter1_Out.Caption" Value="Поставщик" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnParameter10_Out.Caption" Value="Перевозчик" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnParameter2_Out.Caption" Value="Клиент" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnParameter3_Out.Caption" Value="Конкурент" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnParameter4_Out.Caption" Value="ПрочиеОтношения" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnParameter5_Out.Caption" Value="КонтактнаяИнформация" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnParameter5_Out.MtnParameter6_Out.Caption" Value="Тип" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnParameter5_Out.MtnParameter7_Out.Caption" Value="Представление" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnParameter5_Out.MtnParameter8_Out.Caption" Value="АдресЭП" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnParameter5_Out.MtnParameter9_Out.Caption" Value="НомерТелефона" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnRefkey_In.Caption" Value="RefKey" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnRefkey_In.DisplayValue" Value="[#RefKey#]" />
+			<Item Name="BaseElements.WebService1.Parameters.MtnRKey_Out.Caption" Value="Ref_Key" />
+			<Item Name="BaseElements.WebService1.Parameters.RequestBody.Caption" Value="Тело запроса сервиса" />
+			<Item Name="BaseElements.WebService1.Parameters.Response.Caption" Value="Тело ответа сервиса" />
+			<Item Name="BaseElements.WebService1.Parameters.StatusCode.Caption" Value="Http код состояния" />
+			<Item Name="BaseElements.WebService1.Parameters.Success.Caption" Value="Успешно выполнен" />
+			<Item Name="Caption" Value="ERP: Получение Партнеров" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.MtnAccountRefKey.Caption" Value="RefKey" />
+			<Item Name="Parameters.MtnPartner.Caption" Value="Партнер" />
+			<Item Name="Parameters.MtnPartner.DisplayValue" Value="[#ERP: Обработка партнера (подпроцесс) 1.Партнер#]" />
+		</Items>
+	</Group>
+</Resources>

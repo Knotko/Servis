@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "dcec9212-2a76-4214-992b-4b739ef38413",
+    "Name": "MtnProcess_a85e8c0",
+    "ModifiedOnUtc": "\/Date(1741562467000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Обработка контактной информации (подпроцесс)"
+  }
+}

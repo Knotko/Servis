@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d7b2bcfa-c869-4278-9061-be3cb5aa0f03",
+    "Name": "MtnService_OData",
+    "ModifiedOnUtc": "\/Date(1741902395000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "https://api2.maytoni.de",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e3403a61-2f4d-4e5c-a632-6e1dbddd91fb",
+    "Name": "MtnProcess_da8f5b2MaytoniMain1",
+    "ModifiedOnUtc": "\/Date(1741900539000)\/",
+    "Parent": {
+      "UId": "a5b48c94-0be2-421f-a915-912f7ebb1575",
+      "Name": "MtnProcess_da8f5b2"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "ERP: Обработка контрагента (подпроцесс)"
+  }
+}

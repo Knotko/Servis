@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "4e925ecd-b7f6-496d-ae73-4f949c7b18a4",
+    "Name": "MtnERPPartnerProcessingSubprocess",
+    "ModifiedOnUtc": "\/Date(1741741572000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "ERP: Обработка партнера (подпроцесс)"
+  }
+}

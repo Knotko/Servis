@@ -57,6 +57,19 @@ define("CasePage", [], function() {
 					"type": 1,
 					"attribute": "Group"
 				}
+			},
+			"Contact": {
+				"FiltrationContactByAccount": {
+					"uId": "11b472dd-bb5f-4c96-9970-25235a679d62",
+					"enabled": true,
+					"ruleType": 1,
+					"baseAttributePatch": "Account",
+					"comparisonType": 3,
+					"autoClean": false,
+					"autocomplete": true,
+					"type": 1,
+					"attribute": "Account"
+				}
 			}
 		}/**SCHEMA_BUSINESS_RULES*/,
 		methods: {},
